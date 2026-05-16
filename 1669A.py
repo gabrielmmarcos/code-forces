@@ -10,3 +10,4 @@ for _ in range(ratings):
         print('Division 2')
     else:
         print('Division 1')
+        
