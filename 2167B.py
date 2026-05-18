@@ -19,10 +19,11 @@ for _ in range(q):
             checker = False
             break
     
+    # versão mais foda que eu fiz
     # count = 0
     # count_2 = 0 
-    # for i in range(0, len(s)-1):
-    #     for j in range(0, len(s)-1):
+    # for i in range(0, len(s)):
+    #     for j in range(0, len(s)):
     #         if s[i] == s[j]:
     #             count +=1
     #         if s[i] == t[j]:
